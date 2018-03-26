@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Boxy Theme",
+		"Compare Side-By-Side",
+		"CSScomb",
+		"Emmet",
+		"Facebook Material Theme",
+		"Highlight",
+		"HTMLBeautify",
+		"Indent XML",
+		"JavaIME",
+		"Javatar",
+		"JsFormat",
+		"JSON Reindent",
+		"Markdown Preview",
+		"Material Theme",
+		"Maven",
+		"Package Control",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-javac",
+		"SVN"
+	]
+}
